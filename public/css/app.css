@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+body {
+    background-color: rgb(26, 44, 58);
+}
+
+a {
+    text-decoration: none;
+}
+
+.active a {
+    color: green;
+    text-decoration: none;
+}
+.h-screen {
+    height: 100vh;
+}
+

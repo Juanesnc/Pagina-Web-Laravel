@@ -1,0 +1,20 @@
+{
+    "Contact": "Contacto",
+    "Projects": "Portafolio",
+    "About": "Quién Soy",
+    "Home": "Inicio",
+    "Edit": "Editar",
+    "create new project": "Crear Nuevo Projecto",
+    "Edit project": "Editar Projecto",
+    "Email Address": "Correo Electrónico",
+    "Email": "Correo Electrónico",
+    "Password": "Contraseña",
+    "Login": "Iniciar Sesion",
+    "Register": "Registro",
+    "Remember Me": "Recuérdame",
+    "Forgot Your Password?": "¿Olvidó su Contraseña?",
+    "Name": "Nombre",
+    "Subject": "Asunto",
+    "Content": "Mensaje",
+    "Confirm Password": "Confirmar Contraseña"
+}
